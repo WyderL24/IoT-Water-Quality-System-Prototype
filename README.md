@@ -29,6 +29,7 @@ DS18B20 → Digital pin (one-wire)
 ✅ 3. 🌐 Web Dashboard & IoT Software
 
 Platform Options:
+
 Option A: Node-RED with Dashboard + MQTT (offline/local)
 Option B: Blynk (cloud + mobile)
 Option C: Firebase Realtime Database + Web app (custom)
@@ -45,5 +46,5 @@ Web UI via http://<device-ip>:1880/ui
 // LinkedIn Profile: www.linkedin.com/in/wyderl
 // Connect with Me: 
 //      E-mail: wyderl24@gmail.com
-*/
 //       Skype: live:.cid.19f15983a80c2bd1
+*/
