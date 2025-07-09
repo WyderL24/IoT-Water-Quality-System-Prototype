@@ -38,3 +38,12 @@ Real-time water quality dashboard
 Historical graphing (optional)
 Alerts (e.g. pH too low, TDS too high)
 Web UI via http://<device-ip>:1880/ui
+
+/*
+//Author: Wyder Lalangan
+// GitHub Repository: https://github.com/WyderL24
+// LinkedIn Profile: www.linkedin.com/in/wyderl
+// Connect with Me: 
+//      E-mail: wyderl24@gmail.com
+*/
+//       Skype: live:.cid.19f15983a80c2bd1
